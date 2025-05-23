@@ -24,7 +24,7 @@ Projeto de aplicação desktop para controle simples de despesas, desenvolvido e
 
 ## Tecnologias utilizadas
 
-- Java 17+
+- Java 17 LTS
 - JavaFX 21.0.7
 - SQLite (via JDBC)
 - Estrutura modularizada em MVC (Model, View, Controller)
@@ -33,7 +33,7 @@ Projeto de aplicação desktop para controle simples de despesas, desenvolvido e
 
 ## Requisitos
 
-- Java 21 ou superior
+- Java 17 ou Superior
 
 - JavaFX SDK 21.0.7
 
