@@ -4,7 +4,7 @@ Projeto de aplicação desktop para controle simples de despesas, desenvolvido e
 
 ---
 
-![Tela Controle de Despesas](./Controle%20de%20Despesas.png)
+![Tela Controle de Despesas](./Controle_de_Despesas.png)
 
 ## Funcionalidades atuais
 
