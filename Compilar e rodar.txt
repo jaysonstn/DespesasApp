@@ -1,0 +1,7 @@
+CMD:
+Compilar:
+javac -encoding UTF-8 --module-path lib\javafx-sdk-21.0.7\lib --add-modules javafx.controls,javafx.fxml -cp lib\sqlite-jdbc.jar -d out @sources.txt
+
+CMD:
+Rodar:
+java --module-path lib\javafx-sdk-21.0.7\lib --add-modules javafx.controls,javafx.fxml -cp out;lib\sqlite-jdbc-3.49.1.0.jar app.Main

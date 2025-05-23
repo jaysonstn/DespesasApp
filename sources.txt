@@ -1,0 +1,5 @@
+C:\Workspace\Java\DespesasApp\src\app\Main.java
+C:\Workspace\Java\DespesasApp\src\controller\DespesaController.java
+C:\Workspace\Java\DespesasApp\src\model\Despesa.java
+C:\Workspace\Java\DespesasApp\src\model\DespesaDAO.java
+C:\Workspace\Java\DespesasApp\src\view\MainView.java

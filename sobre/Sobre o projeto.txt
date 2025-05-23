@@ -1,0 +1,23 @@
+Funcionamento Geral
+-App inicia e cria interface (janela).
+-Usuário adiciona despesa: digita dados e clica “Adicionar”.
+-Controller pede DAO para salvar no banco.
+-Lista é atualizada e exibe todas despesas.
+-Usuário pode excluir despesas selecionadas.
+-Total das despesas aparece atualizado.
+
+Conceitos de Java usados
+-Classes e objetos: estrutura básica do código.
+-Pacotes: organização do projeto.
+-Encapsulamento: uso de private e getters/setters.
+-JavaFX: criação da interface gráfica.
+-Eventos (handlers): responder cliques do usuário.
+-Tratamento de erros (try-catch): evitar falhas em tempo de execução.
+-Collections e ObservableList: para sincronizar dados e interface.
+-JDBC: conexão com banco SQLite.
+
+Possíveis melhorias
+-Validações mais robustas na interface.
+-Usar arquivos CSS externos para estilo.
+-Adicionar gráficos e relatórios.
+-Empacotar app para distribuição fácil.
